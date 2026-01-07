@@ -1,5 +1,33 @@
-# 💫 About Me:
-I am a Medical Device R&D Engineer and Product Architect with 6+ years of research-to-product experience. My professional journey spans high-impact roles across prestigious institutions, including VIT Vellore, AIIMS New Delhi, IIT Delhi, IIT (BHU) Varanasi, and IMS BHU.<br><br>As a natural innovator, I integrate new-age AI tools into my workflow to accelerate R&D cycles, streamline product development, and conduct early-stage risk mitigation. This approach allows me to quickly assess diverse design possibilities and outcomes while maintaining the technical rigor required for medical-grade solutions.<br><br>🛠️ Product Engineering & R&D Expertise<br><br>Human-Centric Design & HMI: I apply design thinking and ergonomic principles to build intuitive Human-Machine Interfaces (HMI). My work specializes in Haptics, including the development of high-density tactile sensor arrays and feedback systems for rehabilitation and surgical training.<br><br>Design for Manufacturability (DfM): I bridge the gap between prototypes and production by focusing on material selection, assembly integration, and utilizing off-the-shelf components for cost-effective scaling.<br><br>Advanced Prototyping: I have vast experience in 3D printing technologies, including FDM, SLA, and light-based/polymer jet systems. I am proficient in operating industrial-grade Stratasys multi-material printers for high-fidelity anatomical and functional models.<br><br>Electronics & AI Integration: Specialist in multilayer PCB design (Eagle CAD), STM32/ESP32/SBC firmware, and building CNN-LSTM hybrid models for real-time biosignal classification with 95%+ accuracy.<br><br>Regulatory & Compliance: Practical experience in clinical needs assessment, IRB protocols, and risk management to ensure all devices meet hospital safety standards.<br><br>🏆 Key Impact Metrics<br><br>Patent Holder: Primary inventor of a Non-Contact Optical Urinometry System (App No: 202511052663) designed for ICU monitoring.<br><br>National Winner: Secured 1st Place at Smart India Hackathon 2024 for a non-toxic ultrasound-based cardiac imaging prototype.<br><br>Published Researcher: Authored 6 peer-reviewed papers (IEEE, Springer, MDPI) focusing on intelligent surgical tools and rehabilitation robotics.<br><br>Clinical Validation: Developed surgical tools and simulators validated by over 22 neurosurgeons at AIIMS New Delhi.<br><br><br>🤝 Leadership & Collaboration<br>I thrive as both a technical lead and a team player, having managed lab operations for over 100 students and co-organized national robotics competitions. I am dedicated to creating accessible, high-performance medical technology that delivers real-world clinical impact.<br>
+## 👋 About Me
+
+[cite_start]I am a **Medical Device R&D Engineer** and **Product Architect** with 6+ years of research-to-product experience[cite: 4]. [cite_start]My professional journey spans high-impact roles across prestigious institutions, including **VIT Vellore** [cite: 91][cite_start], **AIIMS New Delhi** [cite: 42][cite_start], **IIT Delhi** [cite: 73][cite_start], **IIT (BHU) Varanasi** [cite: 25, 89][cite_start], and **IMS BHU**[cite: 105, 113].
+
+[cite_start]As a natural innovator, I integrate new-age AI tools into my workflow to accelerate R&D cycles, streamline product development, and conduct early-stage risk mitigation[cite: 22]. [cite_start]This approach allows me to quickly assess diverse design possibilities and outcomes while maintaining the technical rigor required for medical-grade solutions[cite: 21, 22].
+
+---
+
+### 🛠️ Product Engineering & R&D Expertise
+
+* [cite_start]**Human-Centric Design & HMI:** I apply design thinking and ergonomic principles to build intuitive **Human-Machine Interfaces (HMI)**[cite: 21]. [cite_start]My work specializes in **Haptics**, including the development of high-density tactile sensor arrays and feedback systems for rehabilitation and surgical training[cite: 9, 14, 126, 134].
+* [cite_start]**Design for Manufacturability (DfM):** I bridge the gap between prototypes and production by focusing on material selection, assembly integration, and utilizing off-the-shelf components for cost-effective scaling[cite: 18, 106].
+* [cite_start]**Advanced Prototyping:** I have vast experience in 3D printing technologies, including **FDM, SLA**, and **light-based/polymer jet** systems[cite: 18, 75]. [cite_start]I am proficient in operating industrial-grade **Stratasys multi-material printers** for high-fidelity anatomical and functional models[cite: 52, 75, 133].
+* [cite_start]**Electronics & AI Integration:** Specialist in multilayer **PCB design** (Eagle CAD) [cite: 15, 29][cite_start], **STM32/ESP32/SBC** firmware [cite: 15, 61, 99][cite_start], and building **CNN-LSTM** hybrid models for real-time biosignal classification with **95%+ accuracy**[cite: 16, 49, 221].
+* [cite_start]**Regulatory & Compliance:** Practical experience in clinical needs assessment [cite: 19][cite_start], **IRB protocols** [cite: 19][cite_start], and **risk management** [cite: 21] [cite_start]to ensure all devices meet hospital safety standards[cite: 53, 252].
+
+---
+
+### 🏆 Key Impact Metrics
+
+* [cite_start]**Patent Holder:** Primary inventor of a **Non-Contact Optical Urinometry System** (App No: 202511052663) designed for ICU monitoring[cite: 7, 90, 248, 249].
+* [cite_start]**National Winner:** Secured **1st Place at Smart India Hackathon 2024** for a non-toxic ultrasound-based cardiac imaging prototype[cite: 8, 107, 260].
+* [cite_start]**Published Researcher:** Authored **6 peer-reviewed papers** (IEEE, Springer, MDPI) focusing on intelligent surgical tools and rehabilitation robotics[cite: 7, 218].
+* [cite_start]**Clinical Validation:** Developed surgical tools and simulators validated by **over 22 neurosurgeons** at AIIMS New Delhi[cite: 6, 46, 226].
+
+---
+
+### 🤝 Leadership & Collaboration
+
+[cite_start]I thrive as both a technical lead and a team player[cite: 21]. [cite_start]I have managed lab operations for over **100 students** [cite: 27] [cite_start]and co-organized **national robotics competitions**[cite: 71, 85]. [cite_start]I am dedicated to creating accessible, high-performance medical technology that delivers real-world clinical impact[cite: 11, 263].
 
 
 ## 🌐 Socials:
