@@ -2,7 +2,7 @@
 
 I am a **Medical Device R&D Engineer** and **Product Architect** with **6+ years of research-to-product experience**, My professional journey spans high-impact roles across prestigious institutions, including **VIT Vellore**, **AIIMS New Delhi**, **IIT Delhi** , **IIT (BHU) Varanasi** , and **IMS BHU**.
 
-As a natural innovator, I integrate **new-age AI tools** into my workflow to accelerate R&D cycles, streamline product development, and conduct early-stage risk mitigation. This approach allows me to quickly assess diverse design possibilities and outcomes while maintaining the technical rigor required for medical-grade solutions. I also understand the 
+As a natural innovator, I integrate **new-age AI tools** into my workflow to accelerate R&D cycles, streamline product development, and conduct early-stage risk mitigation. This approach allows me to quickly assess diverse design possibilities and outcomes while maintaining the technical rigor required for medical-grade solutions. 
 
 ---
 
