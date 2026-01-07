@@ -19,10 +19,10 @@ As a natural innovator, I integrate **new-age AI tools** into my workflow to acc
 
 ### 💼 Entrepreneurial Mindset & Business Strategy
 
-**Beyond pure engineering, I operate with an **entrepreneurial lens**, focusing on technology that drives real-world outcomes and commercial viability.
-**Business Strategy & ROI:** I develop go-to-market strategies and business cases that emphasize high ROI, having pitched to industry founders and secured funding through business ideation wins.
-**Market-Driven Development:** I focus on scaling technology from lab prototypes to market-ready products, specifically targeting high-cost gaps in the healthcare sector to offer 10x–20x cost reductions.
-**Outcome-Focused R&D:** I prioritize clinical validation and user-centric design to ensure products are technologically advanced, compliant, and commercially scalable.
+Beyond pure engineering, I operate with an **entrepreneurial lens**, focusing on technology that drives real-world outcomes and commercial viability.
+* **Business Strategy & ROI:** I develop go-to-market strategies and business cases that emphasize high ROI, having pitched to industry founders and secured funding through business ideation wins.
+* **Market-Driven Development:** I focus on scaling technology from lab prototypes to market-ready products, specifically targeting high-cost gaps in the healthcare sector to offer 10x–20x cost reductions.
+* **Outcome-Focused R&D:** I prioritize clinical validation and user-centric design to ensure products are technologically advanced, compliant, and commercially scalable.
 
 ---
 
