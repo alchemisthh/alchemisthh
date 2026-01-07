@@ -8,14 +8,13 @@ As a natural innovator, I integrate **new-age AI tools** into my workflow to acc
 
 ### 🛠️ Product Engineering & R&D Expertise
 
-* **Human-Centric Design & HMI:** I apply **design thinking** and **ergonomic principles** to build intuitive **Human-Machine Interfaces (HMI)**[cite: 21]. [cite_start]My work specializes in **Haptics**, including the development of high-density tactile sensor arrays and feedback systems for rehabilitation and surgical training[cite: 9, 14, 134, 193].
-* **Design for Manufacturability (DfM):** I bridge the gap between prototypes and production by focusing on **material selection**, **assembly integration**, and utilizing off-the-shelf components for cost-effective scaling[cite: 18, 106].
-* **Advanced Prototyping:** I have vast experience in **3D printing** technologies, including **FDM, SLA**, and **light-based/polymer jet** systems[cite: 18, 75, 276]. [cite_start]I am proficient in operating industrial-grade **Stratasys multi-material printers** for high-fidelity anatomical and functional models[cite: 52, 75, 133].
-* **Electronics & AI Integration:** Specialist in multilayer **PCB design** (Eagle CAD), **STM32/ESP32/SBC** firmware, and building **CNN-LSTM** hybrid models for real-time biosignal classification with **95%+ accuracy**[cite: 15, 16, 17, 222].
-* **Regulatory & Compliance:** Practical experience in **clinical needs assessment**, **IRB protocols**, and **risk management** to ensure all devices meet hospital safety standards[cite: 19, 21].
+* **Human-Centric Design & HMI:** I apply **design thinking** and **ergonomic principles** to build intuitive **Human-Machine Interfaces (HMI)**. My work specializes in **Haptics**, including the development of high-density tactile sensor arrays and feedback systems for rehabilitation and surgical training.
+* **Design for Manufacturability (DfM):** I bridge the gap between prototypes and production by focusing on **material selection**, **assembly integration**, and utilizing off-the-shelf components for cost-effective scaling.
+* **Advanced Prototyping:** I have vast experience in **3D printing** technologies, including **FDM, SLA**, and **light-based/polymer jet** systems. I am proficient in operating industrial-grade **Stratasys multi-material printers** for high-fidelity anatomical and functional models, among with other lab and industry equipment and also, learn and adpat to new ones effectively.
+* **Electronics & AI Integration:** Specialist in multilayer **PCB design** (Eagle CAD), **STM32/ESP32/SBC** firmware, and building **CNN-LSTM** hybrid models for real-time biosignal classification with **95%+ accuracy** in my masters thesis.
+* **Regulatory & Compliance:** Practical experience in **clinical needs assessment**, **IRB protocols**, and **risk management** to ensure all devices meet hospital safety standards
 
 ---
-
 
 ### 💼 Entrepreneurial Mindset & Business Strategy
 
@@ -23,7 +22,7 @@ Beyond pure engineering, I operate with an **entrepreneurial lens**, focusing on
 * **Business Strategy & ROI:** I develop go-to-market strategies and business cases that emphasize high ROI, having pitched to industry founders and secured funding through business ideation wins.
 * **Market-Driven Development:** I focus on scaling technology from lab prototypes to market-ready products, specifically targeting high-cost gaps in the healthcare sector to offer 10x–20x cost reductions.
 * **Outcome-Focused R&D:** I prioritize clinical validation and user-centric design to ensure products are technologically advanced, compliant, and commercially scalable.
-
+  
 ---
 
 ### 🏆 Key Impact Metrics
@@ -38,6 +37,7 @@ Beyond pure engineering, I operate with an **entrepreneurial lens**, focusing on
 ### 🤝 Leadership & Collaboration
 
 I thrive as both a technical lead and a team player. I have managed lab operations for over **100 students** and co-organized **national robotics competitions**. I am dedicated to creating accessible, high-performance medical technology that delivers real-world clinical impact.
+
 ---
 
 
